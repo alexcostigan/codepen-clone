@@ -9,7 +9,7 @@ body {
 .panel {
   height: 50vh;
   display: flex;
-  background-color: hsl(225, 6%, 70%)
+  background-color: hsl(225, 6%, 71%)
 }
 
 .editor-container {
