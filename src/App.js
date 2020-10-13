@@ -22,7 +22,7 @@ function App() {
   const [
     srcDoc,
     setSrcDoc
-  ] = useState('', '')
+  ] = useState('')
 
   useEffect(() => {
     const timeout = setTimeout(() => {
