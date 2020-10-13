@@ -7,7 +7,7 @@ function App() {
   const [
     html,
     setHtml
-  ] = useLocalStorage('html')
+  ] = useLocalStorage('html', '')
 
   const [
     css,
