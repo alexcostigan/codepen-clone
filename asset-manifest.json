@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/codepen-clone/static/css/main.8d3f83c9.chunk.css",
+    "main.css": "/codepen-clone/static/css/main.98ac23f3.chunk.css",
     "main.js": "/codepen-clone/static/js/main.57627ffe.chunk.js",
     "main.js.map": "/codepen-clone/static/js/main.57627ffe.chunk.js.map",
     "runtime-main.js": "/codepen-clone/static/js/runtime-main.3a6f25c4.js",
@@ -9,17 +9,17 @@
     "static/js/2.df611ca6.chunk.js": "/codepen-clone/static/js/2.df611ca6.chunk.js",
     "static/js/2.df611ca6.chunk.js.map": "/codepen-clone/static/js/2.df611ca6.chunk.js.map",
     "index.html": "/codepen-clone/index.html",
-    "precache-manifest.30485a4fc7260feeab65364fe0d76dff.js": "/codepen-clone/precache-manifest.30485a4fc7260feeab65364fe0d76dff.js",
+    "precache-manifest.c604f941d9506de39bd6c10fe60ce4c9.js": "/codepen-clone/precache-manifest.c604f941d9506de39bd6c10fe60ce4c9.js",
     "service-worker.js": "/codepen-clone/service-worker.js",
     "static/css/2.ce280647.chunk.css.map": "/codepen-clone/static/css/2.ce280647.chunk.css.map",
-    "static/css/main.8d3f83c9.chunk.css.map": "/codepen-clone/static/css/main.8d3f83c9.chunk.css.map",
+    "static/css/main.98ac23f3.chunk.css.map": "/codepen-clone/static/css/main.98ac23f3.chunk.css.map",
     "static/js/2.df611ca6.chunk.js.LICENSE.txt": "/codepen-clone/static/js/2.df611ca6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a6f25c4.js",
     "static/css/2.ce280647.chunk.css",
     "static/js/2.df611ca6.chunk.js",
-    "static/css/main.8d3f83c9.chunk.css",
+    "static/css/main.98ac23f3.chunk.css",
     "static/js/main.57627ffe.chunk.js"
   ]
 }
