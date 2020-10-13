@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "780f844072f2e443908e0eaaf0af8222",
+    "revision": "76c609f12626f81cfa0951146bdd4c17",
     "url": "/codepen-clone/index.html"
   },
   {
-    "revision": "293007eba5c70d141ab9",
+    "revision": "d35d9b393216cba5dd97",
     "url": "/codepen-clone/static/css/2.ce280647.chunk.css"
   },
   {
-    "revision": "aab3f9351d61335ed1af",
+    "revision": "68fd26dd5423fc0750cc",
     "url": "/codepen-clone/static/css/main.98ac23f3.chunk.css"
   },
   {
-    "revision": "293007eba5c70d141ab9",
-    "url": "/codepen-clone/static/js/2.df611ca6.chunk.js"
+    "revision": "d35d9b393216cba5dd97",
+    "url": "/codepen-clone/static/js/2.93a17a99.chunk.js"
   },
   {
     "revision": "0d6c4affe2a659999d44765f9a17cb4f",
-    "url": "/codepen-clone/static/js/2.df611ca6.chunk.js.LICENSE.txt"
+    "url": "/codepen-clone/static/js/2.93a17a99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aab3f9351d61335ed1af",
-    "url": "/codepen-clone/static/js/main.3a5f71e7.chunk.js"
+    "revision": "68fd26dd5423fc0750cc",
+    "url": "/codepen-clone/static/js/main.a6634137.chunk.js"
   },
   {
     "revision": "7e95b33d3c3f8b32c9c4",
