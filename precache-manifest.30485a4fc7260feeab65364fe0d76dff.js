@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c2aa5673ee5cf907b770b4385bb033f",
+    "revision": "92f03a1f793fb508945f92afc3cd8cef",
     "url": "/codepen-clone/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codepen-clone/static/css/2.ce280647.chunk.css"
   },
   {
-    "revision": "b7f1b74e607932a15914",
+    "revision": "a7169c55e98ed6b2d69a",
     "url": "/codepen-clone/static/css/main.8d3f83c9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codepen-clone/static/js/2.df611ca6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7f1b74e607932a15914",
-    "url": "/codepen-clone/static/js/main.c2814d1b.chunk.js"
+    "revision": "a7169c55e98ed6b2d69a",
+    "url": "/codepen-clone/static/js/main.57627ffe.chunk.js"
   },
   {
     "revision": "7e95b33d3c3f8b32c9c4",
